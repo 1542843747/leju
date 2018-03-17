@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  我们都是好孩子,爱你爱我爱打架
-  </body>
+  我们都是好孩子，爱你爱我爱打架
+  </ body >
 </html>
